@@ -1,0 +1,3 @@
+[submodule "digital-watch"]
+	path = digital-watch
+	url = https://github.com/user123-husain/digital-watch.git
